@@ -1,0 +1,25 @@
+HTML(Hyper Text Markup Language) web səhifələr qurmaq üçün geniş istifadə olunan dil standartıdır. Əsasən front-endin 
+hazırlanmasında istifadə olunur. HTML-də kodlar taglar vasitəsilə yazılır. HTML-in əsas ortaya çıxış məqsədi web brauzerlərin
+taglar arasında yazılmış məzmununu oxunabilər bir şəkildə istifadəçiyə təqdim etməkdir. 
+HTML 5 HTML-in 5-ci revisionudur. HTML5 HTML-in modern multimedia vasitələrini dəstəkləməsi üçün inkişaf etdirilmiş versiyasıdır.
+HTML5 HTML4-ün və XHTML-nin davamıdır. 2012-dən etibarən HTML5 W3C standarları tərəfindən təklif olunan dillərden biridir.
+
+HTML ilə HTML5 arasındakı fərq
+
+HTML kimi daha əvvəlki versiyalarla müqayisədə HTML5’də aşağıdaki kimi yeniliklər var:
+
+    HTML5 detallı işləmə imkanı yaradır.
+    HTML5 kompleks web applicationlar üçün API’lər təqdim edir.
+    HTML5 çox platformalı mobil application üçün potensial namizəddir.
+    HTML5 üçüncü partiya proqramlara və əlavələrə ehtiyac duymadan multimedia və qrafik görünüşləri hazırlaya bilər.    
+    HTML5 səs ve görüntü faylları üçün daha yaxşı destek verir.
+    HTML5’də JS GeoLocation API ilə location təyin oluna bilər.
+    HTML5 detallı parsing qanunlarını özündə saxlayır ve xəta idarə sistemi daha yaxşıdır.
+    HTML5 HTML və HTML4 ilə uyumludur.
+    HTML5 XML sintaksisi istifadə oluna bilər.
+    HTML5’in yeni xüsusiyyətləri HTML, CSS, DOM ve JavaScript üzərində hazırlanıb.
+    HTML5’də Flash kimi üçüncü nəsil proqramlara ehtiyac yoxdur.
+    HTML5 cihazdan asılı deyil.
+    HTML5 drawing üçün canvas özəlliyinə malikdir.
+    HTML5 local offline depolama üçün daha yaxşı vasitədir.
+ 
